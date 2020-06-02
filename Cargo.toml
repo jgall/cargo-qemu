@@ -4,6 +4,9 @@ version = "0.1.0"
 authors = ["John Gallagher <john.willis.gallagher@gmail.com>"]
 edition = "2018"
 repository = "https://github.com/jgall/cargo-qemu"
+description = "A cargo subcommand for running targets via qemu"
+license = "MIT/Apache-2.0"
+keywords = ["cargo-subcommand", "target", "qemu"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
